@@ -3,7 +3,6 @@ __pycache__/
 .venv/
 .DS_Store
 downloads/
-run_logs.txt
-logs.txt
 *.crdownload
 *.log
+*.txt
