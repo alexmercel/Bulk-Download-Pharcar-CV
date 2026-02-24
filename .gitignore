@@ -1,0 +1,7 @@
+config.py
+__pycache__/
+.venv/
+.DS_Store
+downloads/
+run_logs.txt
+*.crdownload
