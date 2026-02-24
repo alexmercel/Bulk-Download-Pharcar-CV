@@ -4,4 +4,6 @@ __pycache__/
 .DS_Store
 downloads/
 run_logs.txt
+logs.txt
 *.crdownload
+*.log
